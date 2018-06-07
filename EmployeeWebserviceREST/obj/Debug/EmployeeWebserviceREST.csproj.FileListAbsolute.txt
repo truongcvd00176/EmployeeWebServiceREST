@@ -1,0 +1,7 @@
+D:\Prj\Visual Project\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EmployeeWebserviceREST.dll.config
+D:\Prj\Visual Project\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EmployeeWebserviceREST.dll
+D:\Prj\Visual Project\EmployeeWebserviceREST\EmployeeWebserviceREST\bin\EmployeeWebserviceREST.pdb
+D:\Prj\Visual Project\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.csprojAssemblyReference.cache
+D:\Prj\Visual Project\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.csproj.CoreCompileInputs.cache
+D:\Prj\Visual Project\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.dll
+D:\Prj\Visual Project\EmployeeWebserviceREST\EmployeeWebserviceREST\obj\Debug\EmployeeWebserviceREST.pdb
